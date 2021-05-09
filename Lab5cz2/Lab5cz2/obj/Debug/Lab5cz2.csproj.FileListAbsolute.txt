@@ -1,0 +1,20 @@
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\bin\Debug\Lab5cz2.exe.config
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\bin\Debug\Lab5cz2.exe
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\bin\Debug\Lab5cz2.pdb
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.csprojAssemblyReference.cache
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.Form1.resources
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.Properties.Resources.resources
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.csproj.GenerateResource.cache
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.csproj.CoreCompileInputs.cache
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.exe
+E:\Przedmioty\Grafika i Komunikacja czlowiek-komputer\Laboratoria 5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.pdb
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\bin\Debug\Lab5cz2.exe.config
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\bin\Debug\Lab5cz2.exe
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\bin\Debug\Lab5cz2.pdb
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.Form1.resources
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.Properties.Resources.resources
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.exe
+C:\Users\User\Downloads\Labki5\Lab5cz2\Lab5cz2\obj\Debug\Lab5cz2.pdb
